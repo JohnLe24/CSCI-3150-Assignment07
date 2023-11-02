@@ -1,0 +1,28 @@
+h1, h2 {
+    color: gold;
+  }
+  
+  p {
+    color: black;
+  }
+  
+  ul {
+    border: 2px solid gold;
+  }
+  
+  ol {
+    border: 2px solid purple;
+  }
+  
+  ol, ul {
+    padding: 5px 20px;
+    border-radius: 20px;
+  }
+  
+  h1, strong {
+    color: purple;
+  }
+  
+  em {
+    color: blue;
+  }
